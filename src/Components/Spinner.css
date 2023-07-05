@@ -1,0 +1,7 @@
+.spin{
+    background-image: url('loading.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 5rem;
+    height: 5rem;
+  }
